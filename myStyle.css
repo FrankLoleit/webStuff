@@ -3,3 +3,21 @@ table, th, th{
     text-align: left;
     
 }
+
+body {
+    background-color: rgb(225, 230, 230);
+}
+
+hr{
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    
+    width: 15%;
+
+}
+
+img{
+    
+}
